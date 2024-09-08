@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["lib"],
+    "java.project.outputPath": "jar",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+ ],
+
+
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.autoSave": "afterDelay",
+    "java.semanticHighlighting.enabled": true,
+    "java.jdt.ls.vmargs": "",
+    "java.import.gradle.jvmArguments": ""
+}

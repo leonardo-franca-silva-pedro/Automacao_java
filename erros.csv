@@ -1,0 +1,35 @@
+TST-1111,,16 98201-0319,Número de telefone inválido
+TST-1112,,16 98102-0772,Número de telefone inválido
+TST-1113,,16 99334-3707,Número de telefone inválido
+TST-1114,,16 993712626,Número de telefone inválido
+TST-1111,,16 98201-0319,Número de telefone inválido
+TST-1112,,16 98102-0772,Número de telefone inválido
+TST-1113,,16 99334-3707,Número de telefone inválido
+TST-1114,,16 993712626,Número de telefone inválido
+Cliente 6,16993712626,CARINA,no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='main']/footer/div[1]/div/span[2]/div/div[2]/div[2]/button/span"}
+  (Session info: chrome=128.0.6613.85)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e96308d69aad9c90d5c201c9abf15645, findElement {using=xpath, value=//*[@id='main']/footer/div[1]/div/span[2]/div/div[2]/div[2]/button/span}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.85, chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05..., userDataDir: C:\Users\leona\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55330}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55330/devtoo..., se:cdpVersion: 128.0.6613.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e96308d69aad9c90d5c201c9abf15645
+Cliente 4,16993712626,ALESSANDRA,no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='main']/footer/div[1]/div/span[2]/div/div[2]/div[2]/button/span"}
+  (Session info: chrome=128.0.6613.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8f9dd592762dbf614474ce2c5758c5a3, findElement {using=xpath, value=//*[@id='main']/footer/div[1]/div/span[2]/div/div[2]/div[2]/button/span}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.115, chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05..., userDataDir: C:\Users\leona\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63861}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63861/devtoo..., se:cdpVersion: 128.0.6613.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8f9dd592762dbf614474ce2c5758c5a3
+Cliente 1,16993712626,KARLA,no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='main']/footer/div[1]/div/span[2]/div/div[2]/div[2]/button/span"}
+  (Session info: chrome=128.0.6613.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [190e17e2ce25ebbba16b02599045cf31, findElement {value=//*[@id='main']/footer/div[1]/div/span[2]/div/div[2]/div[2]/button/span, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.115, chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05..., userDataDir: C:\Users\leona\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64554}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64554/devtoo..., se:cdpVersion: 128.0.6613.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 190e17e2ce25ebbba16b02599045cf31

@@ -1,0 +1,33 @@
+{
+ 
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Automacao",
+            "request": "launch",
+            "mainClass": "Automacao",
+            "projectName": "automacaodiagnostico"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Automacao",
+            "request": "launch",
+            "mainClass": "Automacao",
+            "projectName": "AutomacaoParcela_f7c0cdb2"
+        },
+        {
+            "type": "java",
+            "name": "Automacao(1)",
+            "request": "launch",
+            "mainClass": "Automacao",
+            "projectName": "automacaoparcela"
+        }
+    ]
+}
